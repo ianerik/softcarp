@@ -1,0 +1,27 @@
+Notes first discussion round
+
+17th April 2018
+
+Brainstorm session for ideas:
+
+ - Weather iiiii iiiii
+ - File formatting comparison
+ - Movie recommendation / review collation / genre prediction
+ - paper reader: parse pdf: separate text, figures, equations i
+ - automatic poker player
+ - transportation optimization: cheapest route between countries i
+ - fraud detection in flat sharing websites
+ - data visualisation of communities
+ - scientific writing style comparison
+
+ voting round, 2 votes each:
+ results: weather 15, data visualisation 8, transportation 8
+
+concensus vote:
+1 concern
+  concern addressed: splitting into 2 groups?
+    integrating weather with transportation seems difficult
+    integrating weather with data visualisation is possible, but is not the original appeal of
+      data visualisation project (no obvious community aspect)
+
+consensus achieved for a weather project: weather with data visualisation aspect
